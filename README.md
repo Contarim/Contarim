@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [oão Victor!
+# 👋 Olá! Eu sou João Victor! 
 
 🎯 Desenvolvedor Backend focado em construir APIs robustas, escaláveis e seguras com Python.
 
@@ -11,6 +11,9 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -21,10 +24,10 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🔒 [Gerador de Senhas](https://github.com/seuusuario/gerador-senhas) | Site para gerar senhas seguras com Flask | Flask, Bootstrap, JS |
-| 📊 [Contech](https://github.com/seuusuario/contech) | Plataforma de investimentos com foco em cripto e bolsa (ainda em desenvolvimento)
+| 🔒 <a href="https://github.com/contarim/gerador-senhas" target="_blank">Gerador de Senhas</a> | Site para gerar senhas seguras com Flask | Flask, Bootstrap, JS |
+| 📊 <a href="https://github.com/contarim/contech" target="_blank">Contech</a> | Plataforma de investimentos com foco em cripto e bolsa (em desenvolvimento) | Flask, APIs externas, Charts |
 
-> Veja todos os meus repositórios [aqui](https://github.com/contarim?tab=repositories)
+> Veja todos os meus repositórios <a href="https://github.com/contarim?tab=repositories" target="_blank">aqui</a>
 
 ---
 
@@ -40,8 +43,9 @@ Atualmente estou focado em:
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-contarim)
-- 📧 joaocontar@exemplo.com
+- 💼 <a href="https://www.linkedin.com/in/joao-contarim" target="_blank">LinkedIn</a>  
+- 📧 <a href="mailto:joaocontar@exemplo.com" target="_blank">joaocontar@exemplo.com</a>  
+- 📱 <a href="https://wa.me/55SEUNUMERO?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">WhatsApp</a>
 
 ---
 
