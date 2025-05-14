@@ -25,8 +25,8 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 | Métrica | Valor |
 |--------|-------|
 | 👀 Visualizações de perfil | ![Visitantes](https://komarev.com/ghpvc/?username=contarim&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0e75b6&style=flat) |
-| 📈 Contribuições públicas | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contarim&show_icons=true&theme=default) |
-| 🧠 Linguagens mais usadas | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contarim&layout=compact) |
+| 📈 Contribuições públicas | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contarim&show_icons=true&theme=default&locale=pt-br) |
+| 🧠 Linguagens mais usadas | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contarim&layout=compact&locale=pt-br) |
 
 ---
 
