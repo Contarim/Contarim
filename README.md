@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Victor! 
+# 👋 Olá! Eu sou o João Victor! 
 
 🎯 Desenvolvedor Backend focado em construir aplicações robustas, escaláveis e seguras com Python.
 
@@ -35,7 +35,7 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔒 <a href="https://github.com/contarim/gerador-senhas" target="_blank">Gerador de Senhas</a> | Site para gerar senhas seguras com Flask | Flask, Bootstrap, JS |
-| 📊 <a href="https://github.com/contarim/contech" target="_blank">Contech</a> | Plataforma de investimentos com foco em cripto e bolsa (em desenvolvimento) | Flask, APIs externas, Charts |
+| 📊 <a href="https://github.com/contarim/contech" target="_blank">Contech</a> | Plataforma de investimentos com foco em cripto e bolsa (Projeto de Estudo) | Flask, APIs externas, Charts |
 
 > Veja todos os meus repositórios <a href="https://github.com/contarim?tab=repositories" target="_blank">aqui</a>
 
@@ -54,7 +54,7 @@ Atualmente estou focado em:
 ## 📫 Vamos nos conectar?
 
 - 💼 <a href="https://www.linkedin.com/in/joao-contarim" target="_blank">LinkedIn</a>  
-- 📧 <a href="mailto:joaocontar@exemplo.com" target="_blank">joaocontar@exemplo.com</a>  
+- 📧 <a href="mailto:joaocontar@hotmail.com" target="_blank">joaocontar@hotmail.com</a>  
 - 📱 <a href="https://wa.me/5516991501035?text=Ol%C3%A1%20Jo%C3%A3o!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">WhatsApp</a>
 
 ---
