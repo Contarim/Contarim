@@ -35,7 +35,7 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔒 <a href="https://github.com/contarim/gerador-senhas" target="_blank">Gerador de Senhas</a> | Site para gerar senhas seguras com Flask | Flask, Bootstrap, JS |
-| 📊 <a href="https://github.com/contarim/contech" target="_blank">Contech</a> | Plataforma de investimentos com foco em cripto e bolsa (Projeto de Estudo) | Flask, APIs externas, Charts |
+| 📊 <a href="https://github.com/Contarim/Contech" target="_blank">Contech</a> | Plataforma de investimentos com foco em cripto e bolsa (Projeto de Estudo) | Flask, APIs externas, Charts |
 
 > Veja todos os meus repositórios <a href="https://github.com/contarim?tab=repositories" target="_blank">aqui</a>
 
