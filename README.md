@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o João Victor! 
 
-🎯 Desenvolvedor Backend focado em construir aplicações robustas, escaláveis e seguras com Python.
+🎯 Desenvolvedor Fullstack focado em construir aplicações robustas, escaláveis.
 
-Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticabal e também curso Análise e Desenvolvimento de Sistemas pela FIAP. Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizados e crescimento profissional na área de desenvolvimento backend.
+Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticabal e também curso Análise e Desenvolvimento de Sistemas pela FIAP. Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizados e crescimento profissional na área de desenvolvimento Fullstack.
 
 ---
 
@@ -17,6 +17,7 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -44,10 +45,10 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 ## 🎯 Objetivo Atual
 
 Atualmente estou focado em:
-- Me aperfeiçoar como **Desenvolvedor Backend**
-- Criar APIs com qualidade de produção
+- Me aperfeiçoar como **Desenvolvedor Fullstack**
+- Criar sites e APIs com qualidade.
 - Contribuir com projetos reais e equipes de tecnologia
-- Ingressar no mercado como **Desenvolvedor Backend**
+- Ingressar no mercado como **Desenvolvedor Fullstack**
 
 ---
 
