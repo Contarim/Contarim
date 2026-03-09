@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o João Victor! 
 
-🎯 Desenvolvedor Fullstack focado em construir aplicações robustas, escaláveis.
+🎯 Desenvolvedor focado em construir aplicações robustas, escaláveis.
 
 Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticabal e também curso Análise e Desenvolvimento de Sistemas pela FIAP. Apaixonado por tecnologia, estou sempre em busca de novos desafios, aprendizados e crescimento profissional na área de desenvolvimento Fullstack.
 
