@@ -45,10 +45,10 @@ Sou estudante de Sistemas de Informação pela Faculdade São Luis de Jaboticaba
 ## 🎯 Objetivo Atual
 
 Atualmente estou focado em:
-- Me aperfeiçoar como **Desenvolvedor Fullstack**
-- Criar sites e APIs com qualidade.
+- Me aperfeiçoar como **Desenvolvedor**
+- Criar aplicações e APIs com qualidade.
 - Contribuir com projetos reais e equipes de tecnologia
-- Ingressar no mercado como **Desenvolvedor Fullstack**
+- Ingressar no mercado como **Desenvolvedor**
 
 ---
 
@@ -60,4 +60,4 @@ Atualmente estou focado em:
 
 ---
 
-### **_Obrigado por visitar meu perfil! Vamos codar juntos? 🚀_**
+### **_Obrigado por visitar meu perfil!_**
